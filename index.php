@@ -17,7 +17,7 @@
 echo "<table class=styled-table>";
 echo"<thead>";
 echo "<tr>";
-echo "<th>Number (1-12) </th>";
+echo "<th>Number (1-20) </th>";
 echo" <th>Operand</th>";
 echo" <th>Result</th>";
 
